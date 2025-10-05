@@ -1,5 +1,7 @@
 ## Hi, I am Aria! 👋
 
+
+
 👩🏻‍💻 Consultant at a public law firm • BBA thesis (2021) • Final-year IT student • I bring a business mindset to building practical tech solutions.
 
 ## Skills 
