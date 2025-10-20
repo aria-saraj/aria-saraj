@@ -14,3 +14,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux" />
 </p>
+
+
+### 📊 GitHub at a glance
+<p>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=aria-saraj&show_icons=true&hide_title=true&hide_rank=true&theme=github_dark"
+      media="(prefers-color-scheme: dark)"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=aria-saraj&show_icons=true&hide_title=true&hide_rank=true" height="140"/>
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aria-saraj&layout=compact&hide_title=true&theme=github_dark"
+      media="(prefers-color-scheme: dark)"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aria-saraj&layout=compact&hide_title=true" height="140"/>
+  </picture>
+</p>
+
+---
+
+<sub>Always happy to connect and collaborate on small, practical projects.</sub>
