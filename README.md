@@ -17,7 +17,14 @@
 
 ---
 
-## 📊 Prosjekter
+## Utenfor kode
+
+- 📚 **Bokentusiast** – samler på eksklusive utgaver og førsteopplag. Alltid på jakt etter nye favoritter.  
+- ✈️ **Eventyrlysten reisende** – elsker å oppleve nye steder, kulturer og små hverdags­eventyr.
+
+---
+
+## 📊 Prototyper
 
 ### 🎢 Tusenfryd Map — interaktiv parkguide
 Live: [Tusenfryd-navigasjon](https://tusenfryd-map.netlify.app)
