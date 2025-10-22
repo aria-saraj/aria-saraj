@@ -32,7 +32,20 @@ Fokus: tydelige kategorier/ikoner, enkel navigasjon på mobil, og tilgjengelighe
 
 **Videre arbeid:** “Finn meg” med geolokasjon, forbedret ytelse
 
----
+
+
+## Hackathon (2025) – Oslo Studenthub
+
+**Demo: enkel anbefalingsalgoritme**  
+[![Quiz-Demo](https://img.youtube.com/vi/8Bu8ytL0GMc/hqdefault.jpg)](https://www.youtube.com/watch?v=8Bu8ytL0GMc)
+
+**Hva:** Rask prototype som foreslår innhold/valg basert på enkle preferanser.  
+**Rolle:** idé, logikk og frontend-demo  
+**Teknologi:** JavaScript/React, Figma
+**Nøkkelgrep:** lettvekts scoringsmodell, tydelig UI, rask feedback
+
+
+--- 
 
 ## Mikroprosjekt: Slik inspiserer du en nettside
 [![Se video (1 min)](https://img.youtube.com/vi/sNqQO-UJl3k/hqdefault.jpg)](https://www.youtube.com/watch?v=sNqQO-UJl3k)  
