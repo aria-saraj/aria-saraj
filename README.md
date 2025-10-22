@@ -66,6 +66,7 @@ Designet i Figma og implementert som lettvekts webapp for rask orientering i par
 
 - Bokentusiast som samler på eksklusive utgaver og førsteopplag  
 - Reiseglad og eventyrlysten – liker å oppleve nye steder og kulturer
+- Treningsglad - målet er 10k skritt hver dag
 
 ---
 
