@@ -15,21 +15,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux" />
 </p>
 
+---
 
-### 📊 Prosjekter
-## 🎢 Tusenfryd Map — interaktiv parkguide
+## 📊 Prosjekter
+
+### 🎢 Tusenfryd Map — interaktiv parkguide
 Live: [Tusenfryd-navigasjon](https://tusenfryd-map.netlify.app)
 
 Designet i Figma og implementert som lettvekts webapp for rask orientering i parken.
 Fokus: tydelige kategorier/ikoner, enkel navigasjon på mobil, og tilgjengelighet (WCAG AA).
 
-**Rolle:** design (Figma), frontend  
-**Teknologi:** [stack:Vite, TypeScript, Netlify]  
+**Rolle:** design (Figma), frontend med velfungerende funkjsonalitet (prototype) 
+**Teknologi:** [stack: Vite, TypeScript/javascript, Netlify]  
 **Hva jeg løste:**
 - Kategorifilter (attraksjoner, mat, toaletter) og responsiv layout
-- Funksjonalitet
 
-**Videre arbeid:** PWA/offline, “finn meg” m/geolokasjon, forbedret ytelse på mobildata
+**Videre arbeid:** “finn meg” m/geolokasjon, forbedret ytelse
 
 
 ---
