@@ -1,18 +1,29 @@
-## Hi, I am Aria! 
+## Hi, I am Aria!
 
-Consultant at a public law firm • BBA thesis (2021) • Final-year IT student • I bring a business mindset to building practical tech solutions.
+Consultant at a public law firm • BBA thesis (2021) • Final-year IT student.  
+I bring a business mindset to building practical tech solutions.
 
 ---
 
-## Skills 
+## Skills
+
+**Languages & Frameworks:** JavaScript/TypeScript, React, Python  
+**Data & DevOps:** PostgreSQL, Docker, Git/GitHub, Linux  
+**Tools:** Figma, JetBrains Rider, IntelliJ IDEA
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" height="28" alt="JetBrains Rider" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="28" alt="IntelliJ IDEA" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="28" alt="Figma" />
 </p>
 
 ---
@@ -20,45 +31,39 @@ Consultant at a public law firm • BBA thesis (2021) • Final-year IT student 
 ## Prototyper
 
 ### Tusenfryd Map — interaktiv parkguide
-**Live:** [tusenfryd-map](https://tusenfryd-map.netlify.app)
+**Live:** [tusenfryd-map.netlify.app](https://tusenfryd-map.netlify.app)
 
-Designet i Figma og implementert som lettvekts webapp for rask orientering i parken.
-Fokus: tydelige kategorier/ikoner, enkel navigasjon på mobil, og tilgjengelighet (WCAG AA).
-
-**Rolle:** design (Figma), frontend med velfungerende funksjonalitet (prototype)  
+Designet i Figma og implementert som lettvekts webapp for rask orientering i parken.  
+**Rolle:** design (Figma) og frontend-prototype  
 **Teknologi:** Vite/React, TypeScript/JavaScript, Netlify  
-**Hva jeg løste:**
-- Kategorifilter (attraksjoner, mat, toaletter) og responsiv layout
+**Bidrag:** kategorifilter (attraksjoner, mat, toaletter) og responsiv layout  
+**Neste steg:** «Finn meg» (geolokasjon) og ytelsesforbedringer
 
-**Videre arbeid:** “Finn meg” med geolokasjon, forbedret ytelse
-
-
+---
 
 ## Hackathon (2025) – Oslo Studenthub
 
 **Demo: enkel anbefalingsalgoritme**  
-[![Quiz-Demo](https://img.youtube.com/vi/8Bu8ytL0GMc/hqdefault.jpg)](https://www.youtube.com/watch?v=8Bu8ytL0GMc)
+[<img src="https://img.youtube.com/vi/8Bu8ytL0GMc/hqdefault.jpg" width="420" alt="Hackathon demo thumbnail">](https://www.youtube.com/watch?v=8Bu8ytL0GMc)
 
-**Hva:** Rask prototype som foreslår innhold/valg basert på enkle preferanser.  
+**Hva:** rask prototype som foreslår innhold/valg basert på enkle preferanser.  
 **Rolle:** idé, logikk og frontend-demo  
-**Teknologi:** JavaScript/React, Figma
+**Teknologi:** JavaScript/React, Figma  
 **Nøkkelgrep:** lettvekts scoringsmodell, tydelig UI, rask feedback
 
-
---- 
+---
 
 ## Mikroprosjekt: Slik inspiserer du en nettside
-[![Se video (1 min)](https://img.youtube.com/vi/sNqQO-UJl3k/hqdefault.jpg)](https://www.youtube.com/watch?v=sNqQO-UJl3k)  
-*1-min demo: raskt inn i DevTools og finne det du trenger.*
 
-**Hva:** Superkort gjennomgang av Inspect/DevTools for å finne HTML/CSS, teste endringer og forstå layout.  
-**Hvorfor:** For å feilsøke raskt, verifisere design og lære av andres implementasjoner.
+[<img src="https://img.youtube.com/vi/sNqQO-UJl3k/hqdefault.jpg" width="420" alt="DevTools micro video thumbnail">](https://www.youtube.com/watch?v=sNqQO-UJl3k)  
+*1-min demo: inn i DevTools for å finne HTML/CSS, teste endringer og sjekke responsivitet.*
 
 ---
 
 ## Utenfor kode
-- 📚 **Bokentusiast** – samler på eksklusive utgaver og førsteopplag.  
-- ✈️ **Eventyrlysten reisende** – elsker å oppleve nye steder og kulturer.
+
+- Bokentusiast som samler på eksklusive utgaver og førsteopplag  
+- Reiseglad og eventyrlysten – liker å oppleve nye steder og kulturer
 
 ---
 
