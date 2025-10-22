@@ -16,21 +16,21 @@
 </p>
 
 
-### 📊 GitHub at a glance
-<p>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=aria-saraj&show_icons=true&hide_title=true&hide_rank=true&theme=github_dark"
-      media="(prefers-color-scheme: dark)"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=aria-saraj&show_icons=true&hide_title=true&hide_rank=true" height="140"/>
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aria-saraj&layout=compact&hide_title=true&theme=github_dark"
-      media="(prefers-color-scheme: dark)"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aria-saraj&layout=compact&hide_title=true" height="140"/>
-  </picture>
-</p>
+### 📊 Prosjekter
+## 🎢 Tusenfryd Map — interaktiv parkguide
+Live: [Tusenfryd-navigasjon](https://tusenfryd-map.netlify.app)
+
+Designet i Figma og implementert som lettvekts webapp for rask orientering i parken.
+Fokus: tydelige kategorier/ikoner, enkel navigasjon på mobil, og tilgjengelighet (WCAG AA).
+
+**Rolle:** design (Figma), frontend  
+**Teknologi:** [stack:Vite, TypeScript, Netlify]  
+**Hva jeg løste:**
+- Kategorifilter (attraksjoner, mat, toaletter) og responsiv layout
+- Funksjonalitet
+
+**Videre arbeid:** PWA/offline, “finn meg” m/geolokasjon, forbedret ytelse på mobildata
+
 
 ---
 
