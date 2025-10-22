@@ -31,7 +31,7 @@ I bring a business mindset to building practical tech solutions.
 ## Prototyper
 
 ### Tusenfryd Map — interaktiv parkguide
-**Live:** [tusenfryd-map.netlify.app](https://tusenfryd-map.netlify.app)
+**Live:** [tusenfryd-map](https://tusenfryd-map.netlify.app)
 
 Designet i Figma og implementert som lettvekts webapp for rask orientering i parken.  
 **Rolle:** design (Figma) og frontend-prototype  
