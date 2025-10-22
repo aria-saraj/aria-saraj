@@ -26,7 +26,7 @@ Designet i Figma og implementert som lettvekts webapp for rask orientering i par
 Fokus: tydelige kategorier/ikoner, enkel navigasjon på mobil, og tilgjengelighet (WCAG AA).
 
 **Rolle:** design (Figma), frontend med velfungerende funkjsonalitet (prototype) 
-**Teknologi:** [stack: Vite, TypeScript/javascript, Netlify]  
+**Teknologi:** [stack: Vite/React, TypeScript/javascript, Netlify]  
 **Hva jeg løste:**
 - Kategorifilter (attraksjoner, mat, toaletter) og responsiv layout
 
