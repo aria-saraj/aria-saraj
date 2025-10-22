@@ -1,6 +1,6 @@
-## Hi, I am Aria! 👋
+## Hi, I am Aria! 
 
-👩🏻‍💻 Consultant at a public law firm • BBA thesis (2021) • Final-year IT student • I bring a business mindset to building practical tech solutions.
+Consultant at a public law firm • BBA thesis (2021) • Final-year IT student • I bring a business mindset to building practical tech solutions.
 
 ---
 
@@ -17,10 +17,10 @@
 
 ---
 
-## 📊 Prototyper
+## Prototyper
 
-### 🎢 Tusenfryd Map — interaktiv parkguide
-**Live:** [tusenfryd-map.netlify.app](https://tusenfryd-map.netlify.app)
+### Tusenfryd Map — interaktiv parkguide
+**Live:** [tusenfryd-map](https://tusenfryd-map.netlify.app)
 
 Designet i Figma og implementert som lettvekts webapp for rask orientering i parken.
 Fokus: tydelige kategorier/ikoner, enkel navigasjon på mobil, og tilgjengelighet (WCAG AA).
@@ -34,7 +34,7 @@ Fokus: tydelige kategorier/ikoner, enkel navigasjon på mobil, og tilgjengelighe
 
 ---
 
-## 🔎 Mikroprosjekt: Slik inspiserer du en nettside
+## Mikroprosjekt: Slik inspiserer du en nettside
 [![Se video (1 min)](https://img.youtube.com/vi/sNqQO-UJl3k/hqdefault.jpg)](https://www.youtube.com/watch?v=sNqQO-UJl3k)  
 *1-min demo: raskt inn i DevTools og finne det du trenger.*
 
