@@ -44,7 +44,7 @@ Designet i Figma og implementert som lettvekts webapp for rask orientering i par
 
 ---
 
-## Hackathon (2025) – Oslo Studenthub - Telenor
+### Hackathon (2025) – Oslo Studenthub - Telenor
 
 **Demo: enkel anbefalingsalgoritme**  
 [<img src="https://img.youtube.com/vi/8Bu8ytL0GMc/hqdefault.jpg" width="420" alt="Hackathon demo thumbnail">](https://www.youtube.com/watch?v=8Bu8ytL0GMc)
