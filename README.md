@@ -9,7 +9,7 @@ I bring a business mindset to building practical tech solutions.
 
 ## Skills
 
-**Languages & Frameworks:** JavaScript/TypeScript, Java, React, Python  
+**Languages & Frameworks:** JavaScript/TypeScript, Java, React/C#, Python  
 **Data & DevOps:** SQLite, Docker, Git/GitHub, Linux  
 **Tools:** Figma, JetBrains Rider, IntelliJ IDEA
 
