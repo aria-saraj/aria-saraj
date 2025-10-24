@@ -46,7 +46,7 @@ Designet i Figma og implementert som lettvekts webapp for rask orientering i par
 
 ### Hackathon (2025) – Oslo Studenthub - Telenor
 
-**Demo: enkel anbefalingsalgoritme**  
+**Demo: enkel anbefalingsalgoritme-quiz**  
 [<img src="https://img.youtube.com/vi/8Bu8ytL0GMc/hqdefault.jpg" width="420" alt="Hackathon demo thumbnail">](https://www.youtube.com/watch?v=8Bu8ytL0GMc)
 
 **Mål:** Finne en rask og enkel måte for seere å oppdage innhold på tvers av Telenors strømmetjenester og live TV-guide. Dette er én av våre presenterte løsninger.
@@ -56,7 +56,15 @@ Designet i Figma og implementert som lettvekts webapp for rask orientering i par
 **Teknologi:** JavaScript/React, Figma  
 **Nøkkelgrep:** lettvekts scoringsmodell, tydelig UI, rask feedback
 
+
+
+**Demo: enkel anbefalingsalgoritme - venners-toppvalg**  
+[<img src="https://img.youtube.com/vi/8Bu8ytL0GMc/hqdefault.jpg" width="420" alt="Hackathon demo thumbnail">](https://www.youtube.com/watch?v=iYJlq3AQ80U)
+
+**Hva:** rask prototype som foreslår innhold/valg basert på venners preferanser.  
+
 ---
+
 
 ## Mikroprosjekt: Slik inspiserer du en nettside
 
