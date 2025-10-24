@@ -60,6 +60,7 @@ Designet i Figma og implementert som lettvekts webapp for rask orientering i par
 
 ## **Demo: enkel anbefalingsalgoritme - venners-toppvalg**  
 [![Demo: enkel anbefalingsalgoritme – venners toppvalg](https://img.youtube.com/vi/iYJlq3AQ80U/hqdefault.jpg)](https://www.youtube.com/watch?v=iYJlq3AQ80U)
+
 **Hva:** rask prototype som foreslår innhold/valg basert på venners preferanser.  
 
 ---
